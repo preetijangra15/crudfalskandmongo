@@ -10,7 +10,9 @@ install mongodb compass: https://www.mongodb.com/try/download/compass
 install dependencies:
 
 > pip install flask
+
 > pip install flask_pymongo
+
 > pip install bcrypt
 
 create a flask app and try apis on postman.
