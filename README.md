@@ -1,4 +1,4 @@
-# crudfalskandmongo
+# crudflaskandmongo
 
 install poatman: https://www.postman.com/downloads/
 
